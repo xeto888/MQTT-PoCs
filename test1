@@ -1,5 +1,5 @@
 <head>
-<meta name="google-site-verification" content="oC9iZMtHCzuIeNnuG8CDyqmwzdWaeVtI5BJw_uGkgM8" />
+<meta name="google-site-verification" content="fOjzw89HGkzH47AxAdymhGYmOcgmy40CgQvIiSpyEkg" />
 </head>
 
 struct group_info init_groups = { .usage = ATOMIC_INIT(2) };
