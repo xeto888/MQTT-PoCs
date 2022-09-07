@@ -5,7 +5,7 @@
 sleep 5
 mosquitto_sub -h 127.0.0.1 -p 666 -t <registertopic> -u <user> -P <MYPW> | while read -r line
 
-# For key creation the openssl is recommended: openssl req -x509 -nodes -newkey rsa:2048 -keyout private-key.pem -out public-key.pem
+# For key creation, openssl is recommended: openssl req -x509 -nodes -newkey rsa:2048 -keyout private-key.pem -out public-key.pem
 
 
 do
